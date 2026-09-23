@@ -1,4 +1,4 @@
-name: CI
+﻿name: CI
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
       - name: Check README exists
         run: |
           if [ ! -f README.md ]; then
-            echo "README.md not found!"
+            echo "ERROR: README.md not found!"
             exit 1
           fi
-          echo "README.md exists — OK"
+          echo "SUCCESS: README.md exists"
