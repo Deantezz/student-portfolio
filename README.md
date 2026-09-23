@@ -34,21 +34,21 @@
 
 # \## Скриншоты
 
-# !(step1.PNG)
+# !\[Шаг1](step1.png)
 
-# !(step2.PNG)
+# !\[Шаг2](step2.png)
 
-# !(step4.PNG)
+# !\[Шаг4](step4.png)
 
-# !(step4(1).PNG)
+# !\[Шаг4(1)](step4(1).png)
 
-# !(step5 (2).PNG)
+# !\[Шаг5](step5 (2).png)
 
-# !(step5 (3).PNG)
+# !\[Шаг5(1)](step5 (3).png)
 
-# !(step5 (4).PNG)
+# !\[Шаг5(2)](step5 (4).png)
 
-# !(step7.PNG)
+# !\[Шаг7](step7.png)
 
 # 
 
